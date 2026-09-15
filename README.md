@@ -18,7 +18,7 @@ I run facilities operations by day and build local-first AI infrastructure the r
 - Build, measure, then keep the number. Every tier in dart2 has a benchmarked promise and a regression that fails when it drifts.
 - Local first. If it can run on the laptop without a cloud round-trip, it does.
 - Memory is infrastructure. The memory engine is what lets an assistant pick up where the last session left off instead of starting cold.
-- Tests before claims. Each repo carries its own suite; the READMEs only quote numbers that exist in the tree.
+- Tests before claims. dart2, memory-spine, mcp-erp-bridge, and injection-scan each ship a pytest suite; dartagnan documents its adversarial regression method; duck-pet-claude is the fun one.
 
 ## Currently
 
